@@ -1,5 +1,24 @@
-# Quick Loan
-<img src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/6dfa235f-a22f-4584-9e30-2f5525e74412" height="100" width="180">
+<div align="center">
+       
+ <h2>Block 28 - Construct Week Group Project</h2>
+ <h3>Project Code : parsimonious-clover-8073 </h3>
+  <h3>Project Name : Quickloan </h3>  
+
+ </div>
+
+ ##
+
+<div align="center">
+
+ <h3>logo :"Quickloan"</h3>
+
+<img width="400" height="400" alt="Screenshot_110" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/84f16bc6-c0d2-4e90-a350-275a9c2b554b"> 
+
+ 
+ ## 🌐 Deployed Link : https://quickloan-app.vercel.app/
+ 
+
+ </div>
 
 
 
@@ -59,37 +78,52 @@ Rest assured, your data is protected with the highest level of security measures
 - Anburaj S -anburaj2203@gmail.com
 
 
-### How to run the Project
-### Install
+ ##
+ 
+## Run Locally  💻
 
-Follow the following steps to get development environment running.
+<h4>1. Clone the project </h4>
 
-* Clone repository from GitHub
+```
+git clone https://github.com/Anburaj07/vogue-pocket-8479.git
 
-  bash
-  git clone https://github.com/vk10082000/parsimonious-clover-8073.git
-  
+```
 
-   OR USING SSH
+<h4>2. Go to the project directory </h4> 
 
-  bash
-  git clone git@github.com:vk10082000/parsimonious-clover-8073.git
-  
+```
+cd vogue-pocket-8479
+```
+<h4>3. Install dependencies </h4> 
 
-* Install node modules
+```
+npm install --engine-strict
+```
+- Use node version(LTS) should be `v16.16.0`
+- Don't change/override package.json
 
-   bash
-   npm install
+
+<h4>4. Start the server </h4>
+
+```
+  npm start
+```
+##
+
+## Request  🤗
+<div>
+<li>If You find any bug then please create an issue we love to solve that</li>
+<li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
+<li>If You have suggestions or want a new feature feel free to create an issue with label features.</li>
+ </div>
    
+  <div align="center">
+   <h4>  If you like the project then feel free to give Star 😅</h4>
+   </div>
+  
+ ## Feedback / Contributing 🤝
+ > Contributions are always welcome! Just raise an issue, and we will discuss it.
+  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">Team Travelo</a>
 
 
-### Starting front-end servers
 
-* Build application
-
-  bash
-  npm start
-  
----
-
--------------------------------ThankYou😊-----------------------------------------
