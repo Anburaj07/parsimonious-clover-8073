@@ -54,22 +54,22 @@ Rest assured, your data is protected with the highest level of security measures
 
 
 ### Login
-
 <img width="950" alt="Screenshot_111" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/24de71e3-d100-4359-b17e-86a99c7f782e">
 
 
 ### Products
-<img width="950" alt="Screenshot_114" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/5507f6e4-1c0a-4345-b62e-c49112c3f291">
-<img width="950" alt="Screenshot_118" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/4cf0b048-a21c-4fd4-8627-05435c38b7d9">
-
+<img width="950" alt="Screenshot_114" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/3439e066-bf1f-49bb-ac33-5343dd64816d">
+<img width="950" alt="Screenshot_118" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/e9f28b08-d720-4501-ae51-ef3bce224378">
 
 
 
 ### Eligibility Page
-<img width="948" alt="Screenshot_113" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/234e3541-d353-41db-b266-3282e4c591d3">
+<img width="950" alt="Screenshot_113" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/32826b97-2d72-409a-ac53-686c0c8a6ae0">
 
-### Support Page
-<img width="948" alt="Screenshot_115" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/cd110dcf-158c-4a46-bfe4-8d89ddecdfde">
+
+### Company Page
+<img width="950" alt="Screenshot_115" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/6b1aeb40-b867-4f6e-b074-583a06dc95ae">
+
 
 
 ## Our Collaborators
@@ -124,7 +124,7 @@ npm install --engine-strict
   
  ## Feedback / Contributing 🤝
  > Contributions are always welcome! Just raise an issue, and we will discuss it.
-  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">Team Travelo</a>
+  > If you have any feedback, please reach out to us <a href="mailto: anburaj2203@gmail.com">Team Quickloan</a>
 
 
 
