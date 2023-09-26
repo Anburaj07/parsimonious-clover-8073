@@ -12,7 +12,7 @@
 
  <h3>logo :"Quickloan"</h3>
 
-<img width="400" height="400" alt="Screenshot_110" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/84f16bc6-c0d2-4e90-a350-275a9c2b554b"> 
+<img width="300" height="300" alt="Screenshot_110" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/84f16bc6-c0d2-4e90-a350-275a9c2b554b"> 
 
  
  ## 🌐 Deployed Link : https://quickloan-app.vercel.app/
@@ -23,7 +23,7 @@
 
 
 
-Welcome to our <b>Quick Loan</b>! We are your one-stop destination for all your financial needs. Our platform offers a wide range of loan options, tailored to suit individual requirements. From personal loans to home mortgages, small business funding to student loans, we have partnered with reputable lenders to provide you with competitive interest rates and flexible repayment terms.
+Welcome to our <b>Quick Loan</b>! We are your one-stop destination for all your financial needs. Our platform offers a wide range of loan options, tailored to suit individual requirements. From personal loans to home mortgages, and small business funding to student loans, we have partnered with reputable lenders to provide you with competitive interest rates and flexible repayment terms.
 
 Our user-friendly interface ensures a smooth and secure application process, with quick approvals to get you the funds you need when you need them most. Our team of financial experts is ready to assist you at every step, offering personalized guidance and support.
 
@@ -41,30 +41,31 @@ Rest assured, your data is protected with the highest level of security measures
 
 # Features
 - Authentication
-- Check Eligibilty
-- Choose Loan by Category
+- Check Eligibility
+- Choose a Loan by Category
 - Select our Partner Bank
 - Proceed With the loan Application
 - Get Approved from Backend 
 
 # Different Pages of Website
 ### Homepage
-<img width="948" alt="Screenshot_110" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/e5c51a35-e914-4bbf-9e5c-81cf584ab9c1">
-<img width="960" alt="Screenshot_117" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/0532bd26-c17a-4130-b517-d51d26f00216">
-<img width="960" alt="Screenshot_116" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/9567309e-4d8f-46b2-9617-7868268d4036">
+<img width="950" alt="Screenshot_110" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/a436bdf3-6bb3-4774-8df2-eb49ee90eeee">
+<img width="950" alt="Screenshot_117" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/fd6de3f8-2d74-4930-bc19-d98e3bba908e">
+
 
 ### Login
-<img width="948" alt="Screenshot_111" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/110fab40-b6fe-45d2-8f37-5cc0ad48f09e">
+
+<img width="950" alt="Screenshot_111" src="https://github.com/Anburaj07/parsimonious-clover-8073/assets/123880321/24de71e3-d100-4359-b17e-86a99c7f782e">
 
 
 ### Products
-<img width="948" alt="Screenshot_114" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/5507f6e4-1c0a-4345-b62e-c49112c3f291">
-<img width="937" alt="Screenshot_118" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/4cf0b048-a21c-4fd4-8627-05435c38b7d9">
+<img width="950" alt="Screenshot_114" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/5507f6e4-1c0a-4345-b62e-c49112c3f291">
+<img width="950" alt="Screenshot_118" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/4cf0b048-a21c-4fd4-8627-05435c38b7d9">
 
 
 
 
-### Eligibilty Page
+### Eligibility Page
 <img width="948" alt="Screenshot_113" src="https://github.com/vk10082000/parsimonious-clover-8073/assets/112822976/234e3541-d353-41db-b266-3282e4c591d3">
 
 ### Support Page
