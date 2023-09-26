@@ -86,14 +86,14 @@ Rest assured, your data is protected with the highest level of security measures
 <h4>1. Clone the project </h4>
 
 ```
-git clone https://github.com/Anburaj07/vogue-pocket-8479.git
+git clone https://github.com/Anburaj07/parsimonious-clover-8073.git
 
 ```
 
 <h4>2. Go to the project directory </h4> 
 
 ```
-cd vogue-pocket-8479
+cd quickloan_app
 ```
 <h4>3. Install dependencies </h4> 
 
